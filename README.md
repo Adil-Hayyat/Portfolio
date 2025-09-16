@@ -5,11 +5,11 @@
   
   <img src="./readme-images/project-logo.jpg" />
 
-  <h2 align="center">Haroon - Personal portfolio</h2>
+  <h2 align="center">Portfolio - Adil Hayyat</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://haroonsajid.com"><strong>➥ Live Demo</strong></a>
+  <a href="https://adil-hayyat.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -38,4 +38,4 @@ git clone https://github.com/haroon-sajid/My_Portfolio.git
 
 ### Contact
 
-[Linkedin](https://www.linkedin.com/in/haroon-sajid).
+[Linkedin](https://www.linkedin.com/in/106-adil-hayyat).
